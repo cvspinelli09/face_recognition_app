@@ -1,4 +1,4 @@
-# face_recognition_brain_app
+# face_recognition_app
 Part of a Portfolio I'm still building.
 
 PART I.
