@@ -1,5 +1,5 @@
 # face_recognition_app
-Part of a Portfolio I'm still building.
+Part of a Portfolio under construction.
 
 PART I.
 
