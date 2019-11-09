@@ -10,16 +10,22 @@ PART I.
 
 FRONT-END WEB APP BUILDING using Clarifai API:
 
---------------(yet to be finished)
+<-- finished -->
 
 PART II.
 
 SERVER SET UP FOR THE BACK-END
 
+<-- finished -->
+
 PART III.
 
 DATABASE SET UP.
 
+<-- finished -->
+
 PART IV.
 
 PRODUCTION + DEPLOYMENT
+
+yet to be finished.
